@@ -1,4 +1,8 @@
-### Hi there 👋
+![](https://images.unsplash.com/photo-1583684977172-528983104c31?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80)
+
+Sou um Desenvolvedor de Software JavaScript com mais de 1 ano de experiência na indústria de software.
+
+No início meu foco era em desenvolvimento Back-End com NodeJS, mas atualmente, além de me especializar no uso do JS no lado do servidor, estou estudando em paralelo: Front-End, Clean Architecture/Code, Melhores práticas para o Desenvolvimento de Software Corporativo, além de algumas ferramentas e cloud platforms utilizadas para DevOps, com o objetivo de me tornar um Engenheiro de Software Full-Stack JavaScript num futuro próximo.
 
 <!--
 **marcusviniciusfa/marcusviniciusfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
