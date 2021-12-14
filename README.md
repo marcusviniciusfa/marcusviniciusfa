@@ -1,5 +1,6 @@
 ![](./image.jpg)
 
+<!-- 
 Sou um Desenvolvedor de Software JavaScript com mais de 1 ano de experiência na indústria de software.
 
 No início meu foco era em desenvolvimento Back-End com NodeJS, mas atualmente, além de estar me especializando no uso do JS no lado do servidor, estou estudando em paralelo: Front-End, Clean Architecture/Code, Melhores práticas para o Desenvolvimento de Software Corporativo, além de algumas ferramentas e cloud platforms utilizadas para DevOps, com o objetivo de me tornar um Engenheiro de Software Full-Stack JavaScript num futuro próximo.
@@ -18,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ -->
