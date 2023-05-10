@@ -27,3 +27,7 @@ Sou Desenvolvedor Back-End Node.js, Bacharel em Sistemas de Informação pela UF
     <img src="https://skillicons.dev/icons?i=bootstrap,kubernetes,rabbitmq,kafka,redis,deno" alt="bootstrap,kubernetes,rabbitmq,kafka,redis,deno" width="">
   </a>
 </details>
+
+### Principais artigos
+
+* `Medium` - [AWS Food Fair API: Um CRUD com serviços da AWS e testes automatizados de integração e end-to-end](https://medium.com/@marcusviniciusfa/aws-food-fair-api-3244aa843d70)
