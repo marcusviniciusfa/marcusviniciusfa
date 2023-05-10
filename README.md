@@ -4,30 +4,14 @@ Sou Desenvolvedor Back-End Node.js, Bacharel em Sistemas de Informação pela UF
 
 ### Tecnologias
 
-<details>
-  <summary>Tenho experiência</summary>
-  <blockquote>Utilizei de maneira profissional, em projetos corporativos.</blockquote>
-  <a href="https://skillicons.dev">
-    <img height="35px" src="https://skillicons.dev/icons?i=nodejs,ts,js,jest,express,nestjs,mongodb,postgres,git,docker,linux,bash,vscode,github,md" alt="nodejs,ts,js,jest,express,nestjs,mongodb,postgres,git,docker,linux,bash,vscode,github,md">
-  </a>
-</details>
+>Tecnologias que tenho experiências em projetos pessoais ou corporativos
 
-<details>
-  <summary>Estou estudando</summary>
-  <blockquote>Estudando a tecnologia, utilizando em cursos ou projetos pessoais.</blockquote>
-  <a href="https://skillicons.dev">
-    <img height="35px" src="https://skillicons.dev/icons?i=prisma,dynamodb,aws,graphql,html,css,vue,vite" alt="prisma,dynamodb,aws,graphql,html,css,vue,vite">
-  </a>
-</details>
+<a href="https://skillicons.dev">
+  <img height="35px" src="https://skillicons.dev/icons?i=nodejs,ts,js,jest,express,nestjs,aws,prisma,mongodb,postgres,dynamodb,git,docker,linux,bash,vscode,github,md&perline=50" alt="nodejs,ts,js,jest,express,nestjs,prisma,mongodb,postgres,dynamodb,aws,git,docker,linux,bash,vscode,github,md">
+</a>
 
-<details>
-  <summary>Tenho interesse</summary>
-  <blockquote>Tenho interesse na tecnologia mas ainda não comecei a estudá-la.</blockquote>
-  <a href="https://skillicons.dev">
-    <img height="35px" src="https://skillicons.dev/icons?i=bootstrap,kubernetes,rabbitmq,kafka,redis,deno" alt="bootstrap,kubernetes,rabbitmq,kafka,redis,deno">
-  </a>
-</details>
+### Artigos
 
-### Principais artigos
+>Minhas principais publicações
 
 * `Medium` - [AWS Food Fair API: Um CRUD com serviços da AWS e testes automatizados de integração e end-to-end](https://medium.com/@marcusviniciusfa/aws-food-fair-api-3244aa843d70)
