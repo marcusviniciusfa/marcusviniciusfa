@@ -8,7 +8,7 @@ Sou Desenvolvedor Back-End Node.js, Bacharel em Sistemas de Informação pela UF
   <summary>Tenho experiência</summary>
   <blockquote>Utilizei de maneira profissional, em projetos corporativos.</blockquote>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,ts,js,jest,express,nestjs,prisma,mongodb,postgres,dynamodb,git,docker,linux,bash,vscode,github,md" alt="" width="">
+    <img src="https://skillicons.dev/icons?i=nodejs,ts,js,jest,express,nestjs,prisma,mongodb,postgres,dynamodb,git,docker,linux,bash,vscode,github,md" alt="nodejs,ts,js,jest,express,nestjs,prisma,mongodb,postgres,dynamodb,git,docker,linux,bash,vscode,github,md" width="">
   </a>
 </details>
 
@@ -16,7 +16,7 @@ Sou Desenvolvedor Back-End Node.js, Bacharel em Sistemas de Informação pela UF
   <summary>Estou estudando</summary>
   <blockquote>Estudando a tecnologia, utilizando em cursos ou projetos pessoais.</blockquote>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,graphql,html,css,vue,vite" alt="" width="">
+    <img src="https://skillicons.dev/icons?i=aws,graphql,html,css,vue,vite" alt="aws,graphql,html,css,vue,vite" width="">
   </a>
 </details>
 
@@ -24,6 +24,6 @@ Sou Desenvolvedor Back-End Node.js, Bacharel em Sistemas de Informação pela UF
   <summary>Tenho interesse</summary>
   <blockquote>Tenho interesse na tecnologia mas ainda não comecei a estudá-la.</blockquote>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,kubernetes,rabbitmq,kafka,redis,deno" alt="" width="">
+    <img src="https://skillicons.dev/icons?i=bootstrap,kubernetes,rabbitmq,kafka,redis,deno" alt="bootstrap,kubernetes,rabbitmq,kafka,redis,deno" width="">
   </a>
 </details>
