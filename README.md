@@ -7,7 +7,7 @@ Sou Desenvolvedor Back-End Node.js, Bacharel em Sistemas de Informação pela UF
 >Tecnologias que tenho experiências em projetos pessoais ou corporativos
 
 <a href="https://skillicons.dev">
-  <img height="35px" src="https://skillicons.dev/icons?i=nodejs,ts,js,jest,express,nestjs,aws,prisma,mongodb,postgres,dynamodb,git,docker,linux,bash,vscode,github,md&perline=50" alt="nodejs,ts,js,jest,express,nestjs,prisma,mongodb,postgres,dynamodb,aws,git,docker,linux,bash,vscode,github,md">
+  <img height="35px" src="https://skillicons.dev/icons?i=nodejs,ts,js,jest,express,nestjs,aws,prisma,mongodb,postgres,dynamodb,git,docker,linux,bash,vscode,github,md&perline=50" alt="node.js, typescript, javascript, jest.js, express.js, nest.js, prisma, mongodb, postgresql, dynamodb, amazon web services, git, docker, linux, bash, vscode, github, markdown" title="node.js, typescript, javascript, jest.js, express.js, nest.js, prisma, mongodb, postgresql, dynamodb, amazon web services, git, docker, linux, bash, vscode, github, markdown">
 </a>
 
 ### Artigos
