@@ -1,6 +1,6 @@
 ## Olá 👋
 
-Sou Desenvolvedor Back-End Node.js e tenho uma experiência sólida na criação, integração, documentação e manutenção de APIs, utilizando frameworks como Express.js e Serverless com AWS. No dia a dia procuro sempre fazer uso de boas práticas de Clean Code, princípios SOLID, Hexagonal Architecture e criação de testes automatizados. Sou proativo na resolução de problemas, revisão de código e otimização de sistemas, sempre comprometido com a entrega de soluções eficientes e de alta qualidade. Meu objetivo é ser um Engenheiro de Software especialista em Node.js.
+Sou Desenvolvedor Back-End Node.js com experiência sólida na criação, integração, documentação e manutenção de APIs, utilizando frameworks como Express.js e Serverless com AWS. No dia a dia procuro sempre fazer uso de boas práticas de Clean Code, princípios SOLID, Hexagonal Architecture e criação de testes automatizados. Sou proativo na resolução de problemas, revisão de código e otimização de sistemas, sempre comprometido com a entrega de soluções eficientes e de alta qualidade. Meu objetivo é ser um Engenheiro de Software especialista em Node.js.
 
 ### Tecnologias
 
