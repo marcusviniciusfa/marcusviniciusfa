@@ -6,8 +6,7 @@ Sou Desenvolvedor Back-End Node.js com experiência sólida na criação, integr
 
 https://roadmap.sh/u/marcusvfa
 
-[![roadmap.sh](https://roadmap.sh/card/tall/643c0ec5e2725773748f177a?variant=dark&roadmaps=backend%2Cnodejs%2Csoftware-architect%2Caws)](https://roadmap.sh)
-
+<!--
 ### Tecnologias
 
 >Linguagens, frameworks, bancos de dados, plataformas, ferramentas e ambientes de desenvolvimento nos quais tenho experiência, seja em projetos corporativos ou pessoais
@@ -15,6 +14,7 @@ https://roadmap.sh/u/marcusvfa
 <a href="https://skillicons.dev">
   <img height="35px" src="https://skillicons.dev/icons?i=nodejs,ts,js,vitest,jest,express,nestjs,aws,prisma,mongodb,postgres,dynamodb,git,docker,linux,bash,vscode,github,md&perline=50" alt="node.js, typescript, javascript, vitest, jest.js, express.js, nest.js, prisma, mongodb, postgresql, dynamodb, amazon web services, git, docker, linux, bash, vscode, github, markdown" title="node.js, typescript, javascript, jest.js, express.js, nest.js, amazon web services, prisma, mongodb, postgresql, dynamodb, git, docker, linux, bash, vscode, github, markdown">
 </a>
+-->
 
 ### Artigos
 
