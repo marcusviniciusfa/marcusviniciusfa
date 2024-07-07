@@ -2,6 +2,12 @@
 
 Sou Desenvolvedor Back-End Node.js com experiência sólida na criação, integração, documentação e manutenção de APIs, utilizando frameworks como Express.js e Serverless com AWS. Procuro sempre fazer uso de boas práticas de Clean Code, princípios SOLID, Hexagonal Architecture e criação de testes automatizados. Sou proativo na resolução de problemas, revisão de código e otimização de sistemas, sempre comprometido com a entrega de soluções eficientes e de alta qualidade. Meu objetivo é ser um Engenheiro de Software especialista em Node.js.
 
+### Progresso de aprendizado
+
+https://roadmap.sh/u/marcusvfa
+
+[![roadmap.sh](https://roadmap.sh/card/tall/643c0ec5e2725773748f177a?variant=dark&roadmaps=backend%2Cnodejs%2Csoftware-architect%2Caws)](https://roadmap.sh)
+
 ### Tecnologias
 
 >Linguagens, frameworks, bancos de dados, plataformas, ferramentas e ambientes de desenvolvimento nos quais tenho experiência, seja em projetos corporativos ou pessoais
