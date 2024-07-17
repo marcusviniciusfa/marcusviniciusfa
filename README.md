@@ -4,10 +4,10 @@ Sou Desenvolvedor Back-End Node.js com experiência sólida na criação, integr
 
 ### Tecnologias
 
->Linguagens, frameworks, bancos de dados, plataformas, ferramentas e ambientes de desenvolvimento nos quais tenho experiência, seja em projetos corporativos ou pessoais
+>Utilizo essas ferramentas de desenvolvimento
 
 <a href="https://skillicons.dev">
-  <img height="35px" src="https://skillicons.dev/icons?i=nodejs,ts,js,vitest,jest,express,nestjs,aws,prisma,mongodb,postgres,dynamodb,git,docker,linux,bash,vscode,github,md&perline=50" alt="node.js, typescript, javascript, vitest, jest.js, express.js, nest.js, prisma, mongodb, postgresql, dynamodb, amazon web services, git, docker, linux, bash, vscode, github, markdown" title="node.js, typescript, javascript, jest.js, express.js, nest.js, amazon web services, prisma, mongodb, postgresql, dynamodb, git, docker, linux, bash, vscode, github, markdown">
+  <img height="35px" src="https://skillicons.dev/icons?i=nodejs,ts,js,vitest,jest,express,nestjs,aws,prisma,mongodb,postgres,docker,bash,vscode&perline=50" alt="Node.js, TypeScript, JavaScript, Vitest, Jest, Express.js, NestJS, AWS, Prisma, MongoDB, PostgreSQL, Docker, Bash, VSCode">
 </a>
 
 ### Artigos
