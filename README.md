@@ -1,4 +1,4 @@
-👋 Olá! Bem-vindo(a) ao meu GitHub.
+👋 Olá, bem-vindo(a) ao meu GitHub!
 
 Sou esposo de Sâmela e pai de Maria Clara. Moro em João Pessoa, Paraíba. Gosto de estar com a família e amigos, ler, tocar violão, assistir a séries/filmes e praticar exercícios ao ar livre.
 
