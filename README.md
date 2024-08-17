@@ -1,17 +1,31 @@
-## Olá 👋
+👋 Olá! Bem-vindo(a) ao meu perfil no LinkedIn.
 
-Sou Desenvolvedor Back-End Node.js com experiência sólida na criação, integração, documentação e manutenção de APIs, utilizando frameworks como Express.js e Serverless com AWS. Procuro sempre fazer uso de boas práticas de Clean Code, princípios SOLID, Hexagonal Architecture e criação de testes automatizados. Sou proativo na resolução de problemas, revisão de código e otimização de sistemas, sempre comprometido com a entrega de soluções eficientes e de alta qualidade. Meu objetivo é ser um Engenheiro de Software especialista em Node.js.
+Sou esposo de Sâmela e pai de Maria Clara. Moro em João Pessoa, Paraíba. Gosto de estar com a família e amigos, ler, tocar violão, assistir a séries/filmes e praticar exercícios ao ar livre.
 
-### Tecnologias
+Tenho formação superior em Sistemas de Informação pela UFPB, concluída em 2022. Atuo como desenvolvedor de software desde 2020. Ao longo desse tempo, adquiri sólida experiência com Node.js e TypeScript, participando ativamente na construção de APIs REST desde a concepção até a implantação, utilizando frameworks como Express.js e arquiteturas Serverless em nuvens como a AWS. Tenho experiência com bancos de dados relacionais e não relacionais. No dia a dia, aplico boas práticas de Clean Code, princípios SOLID, padrões de projeto e designs código como a Arquitetura Hexagonal, além de implementar testes automatizados, com TDD quando possível.
 
->Utilizo essas ferramentas de desenvolvimento
+💎 Meu objetivo é ser um Engenheiro de Software especialista em Node.js.
 
-<a href="https://skillicons.dev">
-  <img height="35px" src="https://skillicons.dev/icons?i=nodejs,ts,js,vitest,jest,express,nestjs,aws,prisma,mongodb,postgres,docker,bash,vscode&perline=50" alt="Node.js, TypeScript, JavaScript, Vitest, Jest, Express.js, NestJS, AWS, Prisma, MongoDB, PostgreSQL, Docker, Bash, VSCode">
-</a>
+Stack de tecnologias que utilizo:
 
-### Artigos
+- ✅ Node.js
+- ✅ TypeScript/JavaScript
+- ✅ Vitest/Jest.js
+- ✅ Express.js/NestJS
+- ✅ AWS
+- ✅ MongoDB/PostgreSQL
+- ✅ Prisma ORM
+- ✅ Docker
 
->Minhas principais publicações
+<!-- - [x] Node.js
+- [x] TypeScript/JavaScript
+- [x] Vitest/Jest.js
+- [x] Express.js/NestJS
+- [x] AWS
+- [x] MongoDB/PostgreSQL
+- [x] Prisma ORM
+- [x] Docker -->
 
-* `Medium` - [AWS Food Fair API: Um CRUD com serviços da AWS e testes automatizados de integração e end-to-end](https://medium.com/@marcusviniciusfa/aws-food-fair-api-3244aa843d70)
+Gostou do meu perfil? Fique a vontade para agendar um bate-papo comigo!
+
+🗓️ https://calendly.com/marcusviniciusfabr
