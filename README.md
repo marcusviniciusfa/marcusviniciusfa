@@ -26,6 +26,6 @@ Stack de tecnologias que utilizo:
 - [x] Prisma ORM
 - [x] Docker -->
 
-Gostou do meu perfil? Fique a vontade para agendar um bate-papo comigo!
+Gostou do meu perfil? Fique a vontade para [agendar](https://calendly.com/marcusviniciusfa) um bate-papo comigo!
 
-🗓️ https://calendly.com/marcusviniciusfabr
+
