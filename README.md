@@ -17,15 +17,4 @@ Stack de tecnologias que utilizo:
 - ✅ Prisma ORM
 - ✅ Docker
 
-<!-- - [x] Node.js
-- [x] TypeScript/JavaScript
-- [x] Vitest/Jest.js
-- [x] Express.js/NestJS
-- [x] AWS
-- [x] MongoDB/PostgreSQL
-- [x] Prisma ORM
-- [x] Docker -->
-
-Gostou do meu perfil? Fique a vontade para [agendar](https://calendly.com/marcusviniciusfa) um bate-papo comigo!
-
 
