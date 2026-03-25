@@ -1,20 +1,5 @@
-👋 Olá, bem-vindo(a) ao meu GitHub!
+Desenvolvedor Back-End com mais de 5 anos de experiência construindo APIs escaláveis e microsserviços em Node.js e TypeScript. Trabalho com frameworks como NestJS e Express.js, bancos de dados relacionais (PostgreSQL) e NoSQL (MongoDB, Redis), além de ferramentas de observabilidade como Datadog e CloudWatch. No dia a dia, aplico princípios SOLID, Clean Code e Arquitetura Hexagonal, garantindo código testável e de fácil manutenção — sempre com cobertura de testes automatizados (Jest, Vitest) e TDD quando aplicável.
 
-Sou esposo de Sâmela e pai de Maria Clara e Ana Beatriz. Moro em João Pessoa, Paraíba. Gosto de estar com a família e amigos, ler, tocar violão, assistir a séries/filmes, jogar basquete e praticar exercícios ao ar livre.
+Sou formado em Sistemas de Informação pela Universidade Federal da Paraíba (UFPB) e tenho experiência prática com Docker, CI/CD e Infraestrutura da AWS. Busco continuamente evoluir como Engenheiro de Software, contribuindo com times que valorizam qualidade de código, boas práticas de engenharia e entrega de valor real ao usuário.
 
-Tenho formação superior em Sistemas de Informação pela UFPB, concluída em 2022. Atuo como desenvolvedor de software desde 2020. Ao longo desse tempo, adquiri sólida experiência com Node.js e TypeScript, participando ativamente na construção de APIs REST desde a concepção até a implantação, utilizando frameworks como Express.js e arquiteturas Serverless em nuvens como a AWS. Tenho experiência com bancos de dados relacionais e não relacionais. No dia a dia, aplico boas práticas de Clean Code, princípios SOLID, padrões de projeto e design de código como a Arquitetura Hexagonal, além de implementar testes automatizados, com TDD quando possível.
-
-💎 Meu objetivo é ser um Engenheiro de Software especialista em Node.js.
-
-Stack de tecnologias que utilizo:
-
-- ✅ Node.js
-- ✅ TypeScript/JavaScript
-- ✅ Vitest/Jest.js
-- ✅ Express.js/NestJS
-- ✅ AWS
-- ✅ MongoDB/PostgreSQL
-- ✅ Prisma ORM
-- ✅ Docker
-
-
+Principais habilidades: Node.js · TypeScript · NestJS · Express.js · AWS · PostgreSQL · MongoDB · Redis · Docker · Prisma ORM · Jest/Vitest · REST APIs · Arquitetura Hexagonal · Microsserviços · Serverless
